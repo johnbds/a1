@@ -6,6 +6,7 @@ public class Cliente {
 	private String endereco;
 	private String telefone;
 	private String email;
+	private String teste;
 	
 	public int getIdCliente() {
 		return idCliente;
