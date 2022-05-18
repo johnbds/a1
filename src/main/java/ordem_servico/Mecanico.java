@@ -6,6 +6,7 @@ public class Mecanico {
 	private String endereco;
 	private String telefone;
 	private double salario;
+	private String tgit;
 	
 	public int getIdMecanico() {
 		return idMecanico;
